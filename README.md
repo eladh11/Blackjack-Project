@@ -1,6 +1,6 @@
  ## Blackjack Project
 
-### Skill Distillery Week 3 Homework
+### My Blackjack21 Project
 
 Create a blackjack game with a dealer and player in OO format and allow the user to play through a deck of cards.
 
@@ -33,14 +33,3 @@ The logic I struggled with was how to logically lay this program out in a clear 
 
 #### How To Run This Project
 Run this through the console in eclipse or the terminal by going to the proper directory and type ```java BlackjackGameApp```
-
-
-#### Lessons Learned and Struggles Encountered
-
-I am getting much more familiar with how OOP interacts with itself, as well as how the is-a and has-a relationships differ and are similar.
-I learned how to more effectively debug my program when there are a lot of conditionals and branch off points.
-I am able to much more confidently conceptualize a mental model of my program which has proven helpful in sorting through several objects and interfaces.  
-I struggled more this project than others with the cleanliness of my code. I found myself less confident in my code due to how difficult it was to follow.
-I need to improve on moving things into their own methods. I struggled with that this project as every time I attempted to restructure my code into more individual methods 
-I would find something creating a road block or compiler error. This is something I intend to fix on future projects and will be committing more effort on my part to understanding 
-how to do this effectively and correctly. I have started a second version that I would like to work on, but the main one is working per the grading requirements.
